@@ -1,0 +1,2 @@
+C:\Users\ayman\OneDrive\Desktop\OpenGL3D\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
+D:\Projects\Graphics Task2\Debug\OpenGL3DTemplate.exe
